@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell} from 'react-mdl';
-
+import FooterBar from './footerbar';
 
 class LandingPage extends Component {
     render () {
@@ -13,10 +13,13 @@ class LandingPage extends Component {
                      className="avatar-img"
                      />
                   <div className="banner-text">
-                    <h1>Technology Enthusiast</h1>
+                    <h1>Abhinav Jonnada</h1>
 
                   <hr/>
-                <p className="banner-text">C++ | Python | React-JS</p>
+                  <h2>Technology Enthusiast</h2>
+                  <hr/>
+                <p className="banner-text">“Yesterday is history, tomorrow is a mystery, and today is a gift... that's why they call it present” 
+                        ― Master Oogway</p>
                 <div className="social-links">
                 {/*Linkedin */}
                    <a href="https://www.linkedin.com/in/abhinav82/" rel="noopener noreferrer" target="_blank">
@@ -32,10 +35,15 @@ class LandingPage extends Component {
                    </a>
                
                 </div>
+                <FooterBar />
                   </div>
+                 
                 </Cell>
+          
               </Grid>
+              
             </div>
+          
         )
     }
 }
