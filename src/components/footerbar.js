@@ -5,11 +5,11 @@ import { Grid, Cell, ProgressBar } from 'react-mdl';
 class FooterBar extends React.Component {
     render(){
         return(
-            <Footer color="stylish-color-dark" className="page-footer font-small pt-4 mt-4">
+            <Footer color="stylish-color-blue" className="page-footer font-small pt-4 mt-4">
                 <div className="footer-copyright text-center py-3">
                     <Container fluid>
-                    <ProgressBar style={{margin: 'auto', width: '75%'}} indeterminate />
-                       <span style={{fontSize: '30px'}}> Powered by <i className="fab fa-react"> React JS </i> </span>
+                
+                       <span style={{fontSize: '20px'}}> Powered by <i className="fab fa-react"> React JS </i> </span>
                     <ProgressBar style={{margin: 'auto', width: '75%'}} indeterminate />
                     </Container>
                 </div>

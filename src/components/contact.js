@@ -14,7 +14,7 @@ class Contact extends Component {
                      style={{height: '250px'}}
                      />
 
-                     <p style={{ widt: '75%', margin: 'auto', paddingTop: '1em'}}>Prepared do an dissuade be so whatever steepest. Yet her beyond looked either 
+                     <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Prepared do an dissuade be so whatever steepest. Yet her beyond looked either 
                          day wished nay. By doubtful disposed do juvenile an. Now curiosity 
                          you explained immediate why behaviour. An dispatched impossible of of 
                          melancholy favourable. Our quiet not heart along scale sense timed. Consider may dwelling old 
