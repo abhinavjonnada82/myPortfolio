@@ -14,7 +14,7 @@ class Contact extends Component {
                      style={{height: '250px'}}
                      />
 
-                     <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Just do it.
+                     <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}><i class="fas fa-grin-stars">Just do it.</i>
                      </p>
                  </Cell>
                  <Cell col={6}>
