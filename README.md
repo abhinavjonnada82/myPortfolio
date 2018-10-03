@@ -1,3 +1,17 @@
+PORTFOLIO | ’WEB APP TO SHOWCASE MY EXPERIENCE& PROJECTS’
+Built using React JS & Material UI , With OpenWeatherMap API integration.
+To do:
+--> Integrate Projects
+Load Unsafe Scripts on the address bar in order for the Weather App to work properly!! 
+Reason: I'm using http instead of https, so Google Chrome assumes I'm using unsafe API...
+![port2](https://user-images.githubusercontent.com/30497847/46388549-711c3900-c692-11e8-97e2-a593896abe27.PNG)
+
+
+![port1](https://user-images.githubusercontent.com/30497847/46388467-e1768a80-c691-11e8-9bd0-32ca84552205.PNG)
+![por2](https://user-images.githubusercontent.com/30497847/46388471-e3404e00-c691-11e8-810c-d5ceff267d22.PNG)
+
+
+-----------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
