@@ -1,7 +1,7 @@
 PORTFOLIO | ’WEB APP TO SHOWCASE MY EXPERIENCE& PROJECTS’
 Built using React JS & Material UI , With OpenWeatherMap API integration.
 To do:
---> Integrate Projects
+--> Integrate:
 Load Unsafe Scripts on the address bar in order for the Weather App to work properly!! 
 Reason: I'm using http instead of https, so Google Chrome assumes I'm using unsafe API...
 ![port2](https://user-images.githubusercontent.com/30497847/46388549-711c3900-c692-11e8-97e2-a593896abe27.PNG)
